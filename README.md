@@ -8,4 +8,6 @@
   My Discord bot, my Minecraft server and my Python projects
 ## Contact me
 - 📫 How to reach me:
-  - Discord: Zerbaib#0001
+  - **Discord**: **Zerbaib#0001**
+  - **Instagram**: [**Zerbaib**](https://www.instagram.com/zerbaib/)
+  - **tiktok**: [**Zerbaib**](https://www.tiktok.com/@zerbaibdev)
