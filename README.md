@@ -7,5 +7,5 @@
 - 🤝 I’m looking to collaborate on:
   My Discord bot, my Minecraft server and my Python projects
 ## Contact me
-- 📫 How to reach me:\n
-  Discord: Zerbaib#0001
+- 📫 How to reach me:
+  - Discord: Zerbaib#0001
