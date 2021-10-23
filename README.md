@@ -9,5 +9,3 @@
 ## Contact me
 - 📫 How to reach me:
   - **Discord**: **Zerbaib#0001**
-  - **Instagram**: [**Zerbaib**](https://www.instagram.com/zerbaib/)
-  - **tiktok**: [**Zerbaib**](https://www.tiktok.com/@zerbaibdev)
