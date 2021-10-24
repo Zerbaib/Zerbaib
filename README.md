@@ -1,3 +1,4 @@
+<p align="center">
 # Something about me ...
 - 👋 Yo, I’m @Zerbaib
 - 🇫🇷 I am a French developer
