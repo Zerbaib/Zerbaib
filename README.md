@@ -9,6 +9,8 @@
 ## Contact me
 - 📫 How to reach me:
   - **Discord**: **Zerbaib#0001**
+- 💸 Donation:
+  - **ETH**: **0x02AcC55751B15DC0eD0E8BDea9D6b544f9E2839F**
 ## ⚙️ Info GitHub
 <br>
 <a href="https://github.com/Zerbaib">
