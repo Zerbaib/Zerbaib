@@ -8,7 +8,7 @@
   My Discord bot, my Minecraft server and my Python projects
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **Zerbaib#0001**
+  - **Discord**: **Zerbaib#6400**
 - 💸 Donation:
   - **ETH**: **0x02AcC55751B15DC0eD0E8BDea9D6b544f9E2839F**
 ## ⚙️ Info GitHub
