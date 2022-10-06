@@ -5,10 +5,10 @@
 - 🛠 I’m currently learning:
   The Python and I would like to learn Java, C, C ++ and node.js
 - 🤝 I’m looking to collaborate on:
-  My Discord bot, my Minecraft server and my Python projects
+  My Website and a Minecraft server.
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **Zerbaib#6400**
+  - **Discord**: **๖̶̶̶ζ͜͡Zerbaib#6400**
 - 💸 Donation:
   - **ETH**: **0x02AcC55751B15DC0eD0E8BDea9D6b544f9E2839F**
 ## ⚙️ Info GitHub
