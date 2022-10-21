@@ -8,7 +8,7 @@
   My Website and a Minecraft server.
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **๖̶̶̶ζ͜͡Zerbaib#6400**
+  - **Discord**: **๖̶̶̶ζ͜͡Zerbaib#6400** or (here)[here]
 - 💸 Donation:
   - **ETH**: **0x02AcC55751B15DC0eD0E8BDea9D6b544f9E2839F**
 ## ⚙️ Info GitHub
