@@ -18,3 +18,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zerbaib&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zerbaib&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Zerbaib/)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Zerbaib/)
