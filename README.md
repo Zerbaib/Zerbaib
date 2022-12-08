@@ -12,7 +12,7 @@
 ## Contact me
 - 📫 How to reach me:
   - **Discord**: **๖̶̶̶ζ͜͡Zerbaib#6400** or [here](https://discord.gg/tAaRcaHvxn)
-  - **IRC**: **HugoH** on the irc.libera.chat on the **#hugoh**, **#dev**, **#python**, **#irssi**
+  - **IRC**: **HugoH** on the irc.libera.chat on the **#hugoh** chan or on mp at **hugoh**
   - **@mail**: **hugo.hennetin@mailfence.com**
 - 💸 Donation:
   - **ETH**: **0x02AcC55751B15DC0eD0E8BDea9D6b544f9E2839F**
