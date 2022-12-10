@@ -4,6 +4,7 @@
 # Something about me ...
 - 👋 Yo, I’m @Zerbaib
 - 🇫🇷 I am a French developer
+<a href="https://app.daily.dev/zerbaib"><img src="https://api.daily.dev/devcards/2805ed5216264809a12752091e9fb417.png?r=hnn" width="400" alt="Zerbaib's Dev Card"/></a>
 ## What i do and want to do
 - 🛠 I’m currently learning:
   The Python and I would like to learn Java, C, C ++ and node.js
