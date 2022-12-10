@@ -4,7 +4,6 @@
 # Something about me ...
 - 👋 Yo, I’m @Zerbaib
 - 🇫🇷 I am a French developer
-<a href="https://app.daily.dev/zerbaib"><img src="https://api.daily.dev/devcards/2805ed5216264809a12752091e9fb417.png?r=hnn" width="400" alt="Zerbaib's Dev Card"/></a>
 ## What i do and want to do
 - 🛠 I’m currently learning:
   The Python and I would like to learn Java, C, C ++ and node.js
@@ -36,3 +35,5 @@
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
+
+<a href="https://app.daily.dev/zerbaib"><img src="https://api.daily.dev/devcards/2805ed5216264809a12752091e9fb417.png?r=hnn" width="400" alt="Zerbaib's Dev Card"/></a>
