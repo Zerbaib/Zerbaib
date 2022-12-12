@@ -5,8 +5,10 @@
 - 👋 Yo, I’m @Zerbaib
 - 🇫🇷 I am a French developer
 ## What i do and want to do
-- 🛠 I’m currently learning:
-  The Python and I would like to learn Java, C, C ++ and node.js
+- currently i know how to code in:
+  Python, HTML, CSS
+- 🛠 I want learn:
+  Java, C, C ++, javascript and other
 - 🤝 I’m looking to collaborate on:
   My Website and a Minecraft server.
 ## Contact me
