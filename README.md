@@ -38,4 +38,4 @@
 
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
 
-<a href="https://app.daily.dev/zerbaib"><img src="https://api.daily.dev/devcards/2805ed5216264809a12752091e9fb417.png?r=059" width="400" alt="Zerbaib's Dev Card"/></a>
+<a href="https://app.daily.dev/zerbaib"><img src="https://api.daily.dev/devcards/2805ed5216264809a12752091e9fb417.png?r=qk8" width="400" alt="Zerbaib's Dev Card"/></a>
