@@ -16,6 +16,7 @@
   - **Discord**: **./Zerbaib.sh#6400** or [here](https://discord.gg/tAaRcaHvxn)
   - **IRC**: **HugoH** on the **[irc.libera.chat](https://libera.chat/)** on the **#hugoh** chan or on mp at **hugoh**
   - **@mail**: **hugo.hennetin@mailfence.com**
+<details>
 - 💸 Donation:
   - **ETH**: **0xF8b61319A4796D18B1Ff9D767Bc243dBF719Ea6A**
   - **BTC**: **bc1qrvmjsg7uk0xjuc482zhjvq52ru4znkw7fkdhz2**
@@ -23,6 +24,7 @@
   - **DOGE**: **DAvHtMPnWyDnd2Fw6MRd4PC42GKECnX7xa**
   - **SOL**: **37y1XHCK8Nbyow22aqa6efbB4oXrkzi3v2xCJWLiPWkG**
   - **XMR**: **47XX3qtn7Y8N6SJraN7m14NWLVNibbFy7Mn481i25iRwLHufvnEfrN1AukGSuNZdgxPH6A9r2viZV4H96B9deAMPCL3PrEm**
+</details>
 ## ⚙️ Info GitHub
 <br>
 <a href="https://github.com/Zerbaib">
