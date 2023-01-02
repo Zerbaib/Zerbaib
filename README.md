@@ -18,6 +18,7 @@
   - **@mail**: **hugo.hennetin@mailfence.com**
 - 💸 Donation:
   - **ETH**: **0x02AcC55751B15DC0eD0E8BDea9D6b544f9E2839F**
+  - **BTC**: **bc1qrvmjsg7uk0xjuc482zhjvq52ru4znkw7fkdhz2**
 ## ⚙️ Info GitHub
 <br>
 <a href="https://github.com/Zerbaib">
