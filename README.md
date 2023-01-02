@@ -17,7 +17,7 @@
   - **IRC**: **HugoH** on the **[irc.libera.chat](https://libera.chat/)** on the **#hugoh** chan or on mp at **hugoh**
   - **@mail**: **hugo.hennetin@mailfence.com**
 <details>
-- 💸 Donation:
+  <summary>💰 Donate Me</summary>
   - **ETH**: **0xF8b61319A4796D18B1Ff9D767Bc243dBF719Ea6A**
   - **BTC**: **bc1qrvmjsg7uk0xjuc482zhjvq52ru4znkw7fkdhz2**
   - **BNB**: **bnb1hwvxdumwhpaphw6nfzzl85npjf6f7fdhe8al6m**
