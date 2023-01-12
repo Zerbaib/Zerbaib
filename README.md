@@ -55,4 +55,5 @@
 A collection of terminal un pixel
 <h4>Link:</h4>
 - Discord: https://discord.gg/XfhVY9aR32
+
 - OpenSea: https://opensea.io/collection/cryptoterm2
