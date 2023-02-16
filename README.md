@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet" />
 
 # Something about me ...
-- 👋 Yo, I’m @Zerbaib
+- 👋 Yo, I’m [@Zerbaib](https://github.com/Zerbaib/)
 - 🇫🇷 I am a French developer
 ## What i do and want to do
 - currently i know how to code in:
