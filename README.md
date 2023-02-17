@@ -26,7 +26,7 @@
   - **SOL**: **``37y1XHCK8Nbyow22aqa6efbB4oXrkzi3v2xCJWLiPWkG``**
   - **XMR**: **``47XX3qtn7Y8N6SJraN7m14NWLVNibbFy7Mn481i25iRwLHufvnEfrN1AukGSuNZdgxPH6A9r2viZV4H96B9deAMPCL3PrEm``**
 
-</details>
+
 
 ## ⚙️ Info GitHub
 <br>
@@ -51,8 +51,10 @@
 <a href="https://app.daily.dev/zerbaib"><img src="https://api.daily.dev/devcards/2805ed5216264809a12752091e9fb417.png?r=qk8" width="400" alt="Zerbaib's Dev Card"/></a>
 
 ## Other project
-### NFT Collection
+<details>
+  <summary>NFT Collection</summary>
 A collection of terminal un pixel
 <h4>Link:</h4>
 - Discord: https://discord.gg/XfhVY9aR32<br>
 - OpenSea: https://opensea.io/collection/cryptoterm2
+</details>
