@@ -53,8 +53,8 @@
 ## Other project
 <details>
   <summary>NFT Collection</summary>
-A collection of terminal un pixel
-<h4>Link:</h4>
-- Discord: https://discord.gg/XfhVY9aR32<br>
-- OpenSea: https://opensea.io/collection/cryptoterm2
+  A collection of terminal un pixel
+  <h4>Link:</h4>
+  - Discord: https://discord.gg/XfhVY9aR32<br>
+  - OpenSea: https://opensea.io/collection/cryptoterm2
 </details>
