@@ -1,4 +1,4 @@
-<img src="https://github-profile-trophy.vercel.app/?username=Zerbaib" />
+<img src="https://github-profile-trophy.vercel.app/?username=Zerbaib&theme=darkhub&margin-w=10" />
 <img src="https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet" />
 
 # Something about me ...
