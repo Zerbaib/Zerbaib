@@ -25,7 +25,7 @@
   - **DOGE**: **``DAvHtMPnWyDnd2Fw6MRd4PC42GKECnX7xa``**
   - **SOL**: **``37y1XHCK8Nbyow22aqa6efbB4oXrkzi3v2xCJWLiPWkG``**
   - **XMR**: **``47XX3qtn7Y8N6SJraN7m14NWLVNibbFy7Mn481i25iRwLHufvnEfrN1AukGSuNZdgxPH6A9r2viZV4H96B9deAMPCL3PrEm``**
-
+</details>
 
 
 ## ⚙️ Info GitHub
