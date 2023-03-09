@@ -30,5 +30,5 @@
 # Github stats
 ![COMMITGRAPH](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerbaib&theme=github_dark)
 ![GITSTATS](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zerbaib&theme=github_dark)
-![COMMITGRAPH](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zerbaib&theme=github_dark&utcOffset=8)
+![COMMITGRAPH](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zerbaib&theme=github_dark&utcOffset=1)
 ![PROGSTATS](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zerbaib&layout=compact&langs_count=8&theme=react&locale=fr)
