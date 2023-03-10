@@ -27,10 +27,10 @@
   <summary>💰 Donate Me</summary>
   
   
-  - ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) : **``0xF8b61319A4796D18B1Ff9D767Bc243dBF719Ea6A``**
-  - ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) : **``bc1qrvmjsg7uk0xjuc482zhjvq52ru4znkw7fkdhz2``**
-  - ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) : **``bnb1hwvxdumwhpaphw6nfzzl85npjf6f7fdhe8al6m``**
-  - ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white) : **``DAvHtMPnWyDnd2Fw6MRd4PC42GKECnX7xa``**
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) : **``0xF8b61319A4796D18B1Ff9D767Bc243dBF719Ea6A``**
+  ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) : **``bc1qrvmjsg7uk0xjuc482zhjvq52ru4znkw7fkdhz2``**
+  ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) : **``bnb1hwvxdumwhpaphw6nfzzl85npjf6f7fdhe8al6m``**
+  ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white) : **``DAvHtMPnWyDnd2Fw6MRd4PC42GKECnX7xa``**
 </details>
 
 
