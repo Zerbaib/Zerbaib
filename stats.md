@@ -31,3 +31,4 @@
 ![COMMITGRAPH](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zerbaib&theme=github_dark)
 ![GITSTATS](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zerbaib&theme=github_dark)
 ![PROGSTATS](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zerbaib&layout=compact&langs_count=8&theme=react&locale=fr)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zerbaib&theme=github-dark)](https://git.io/streak-stats)
