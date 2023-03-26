@@ -3,7 +3,7 @@
 ![VIEW](https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet)
 
 # Something about me ...
-- 👋 Yo, I’m [@Zerbaib](https://github.com/Zerbaib/)
+- 👋 Yo, I’m **[@Zerbaib](https://github.com/Zerbaib/)** !
 - 🇫🇷 I am a French developer
 
 ## My learning projects
