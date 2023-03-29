@@ -21,7 +21,10 @@
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **./Zerbaib.sh#6400** or [here](https://discord.gg/tAaRcaHvxn)
+  - **Discord**: **./Zerbaib.sh#6400**:
+  
+  [![discord](https://invidget.switchblade.xyz/ESzHqadj5J)](https://discord.gg/tAaRcaHvxn) 
+  
   - **IRC**: **HugoH** on the **[irc.libera.chat](https://libera.chat/)** on the **#hugoh** chan or on mp at **hugoh**
   - **@mail**: **hugo.hennetin@proton.me**
 <details>
