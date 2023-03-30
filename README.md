@@ -28,7 +28,7 @@
   - **IRC**: **HugoH** on the **[irc.libera.chat](https://libera.chat/)** on the **#hugoh** chan or on mp at **hugoh**
   - **@mail**: **hugo.hennetin@proton.me**
 <details>
-  <summary>💰 Donate Me</summary>
+  <summary><h3>💰 Donate Me</h3></summary>
   
   
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) :
