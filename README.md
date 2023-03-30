@@ -25,7 +25,7 @@
   
   [![discord](https://invidget.switchblade.xyz/ESzHqadj5J)](https://discord.gg/tAaRcaHvxn) 
   
-  - **IRC**: **HugoH** on the **[irc.libera.chat](https://libera.chat/)** on the **#hugoh** chan or on mp at **hugoh**
+  - **IRC**: **HugoH** on the **[irc.libera.chat](https://libera.chat/)** on the **#hugoh** chan or on pm at **hugoh**
   - **@mail**: **hugo.hennetin@proton.me**
 <details>
   <summary><h3>💰 Donate Me</h3></summary>
