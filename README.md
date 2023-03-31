@@ -1,4 +1,4 @@
-![TROPHY](https://github-profile-trophy.vercel.app/?username=Zerbaib&theme=darkhub&margin-w=10&title=Commits,PullRequest,Repositories,Stars,Issues,Followers)
+![TROPHY](https://github-profile-trophy.vercel.app/?username=Zerbaib&theme=darkhub&margin-w=10)
 
 ![VIEW](https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet)
 
