@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/81523999/229276448-55cf9349-2b20-4d49-b697-cfddc0b3a84a.png" style="width:125%">
+
 ![TROPHY](https://github-profile-trophy.vercel.app/?username=Zerbaib&theme=darkhub&margin-w=10)
 
 ![VIEW](https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet)
@@ -15,7 +17,7 @@
 
 ### I want to learn
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white")
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
