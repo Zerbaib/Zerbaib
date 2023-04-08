@@ -48,6 +48,6 @@
 
 
 ## ⚙️ Info GitHub
-Look my stats on [STATS.md](https://github.com/Zerbaib/Zerbaib/blob/main/STATS.md) !
+Look my stats on **[STATS.md](https://github.com/Zerbaib/Zerbaib/blob/main/STATS.md)** !
 
 [![GitHubStreak](https://github-readme-streak-stats.herokuapp.com?user=Zerbaib&theme=github-dark)](https://git.io/streak-stats)
