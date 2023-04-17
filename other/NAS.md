@@ -18,7 +18,7 @@ Il y a plusieurs etape:
 | / | Disque | Info Disque |
 |:----------:|:-------------:|:------:|
 | 0 | ``250Go`` | Disque system |
-| 1 | ``1.34To`` | Disque principal avec ``100Go`` par utilisateur |
+| 1 | ``1.34To`` | Disque principal avec ``50Go`` par utilisateur |
 | 2 | ``585.74Go`` | Disque limiter au utilisateur premium pour plus de stockage |
 | 3 | ``~289Go`` | Disque off |
 
@@ -45,3 +45,12 @@ Il y a plusieurs etape:
 | Vendredi | ``6h45`` | ``22h`` |
 | Samedi | ``6h45`` | ``22h`` |
 | Dimanche | ``6h45`` | ``22h`` |
+
+---
+# Tarif
+| / | Offre | Prix |
+|:----------:|:-------------:|:------:|
+| Free | ``50Go`` | ``0€/mois`` |
+| Petit Budget | ``75Go`` | ``2.99€/mois`` |
+| Moyen Budget | ``100Go`` | ``4.99€/mois`` |
+| Gros Budget | ``175Go`` | ``15€/mois`` |
