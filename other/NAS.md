@@ -2,7 +2,7 @@
 Ceci est un projet que j'ai eu le 14/04/2023 sur un coup de tête on peut dire.
 
 ## Pourquoi
-Se NAS a pour but de me servire de stockage pour mes fichier multimedia **pour famille/amis/vous/moi.**
+Se NAS a pour but de servire de stockage pour mes fichier multimedia **pour famille/amis/vous/moi.**
 
 ---
 # Comment stocker vos fichier
