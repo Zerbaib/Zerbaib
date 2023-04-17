@@ -15,13 +15,33 @@ Il y a plusieurs etape:
  **3 -** Demander lui un compte pour le NAS
 
 ## Information sur le NAS
-- 1 Disque de ``1.34To`` :online~3: | Tout utilisateur a un compte sur se disque
-- 1 Disque de ``585.74Go`` :idle: | Disque limiter a quelque utilisateur pour eviter de bloquer le disque 1
-- 1 Disque de ``~289Go`` :offline~1: | Actuellement off
-- 1 Carte reseau ``500Mb/s`` :online~1: 
-- 1 CPU ``2 Core 4 Thread`` a ``2.40Ghz``
-- 2 Barrette de RAM de ``2Go/u`` pour un totale de ``4Go``
-- 1 serveur FTP:
-  - 50 Connection simultané
-  - 10 Connection sous le meme réseau
-  - 25Mbit/s par utilisateur
+| / | Disque | Info Disque |
+|:----------:|:-------------:|:------:|
+| 0 | ``250Go`` | Disque system |
+| 1 | ``1.34To`` | Disque principal avec ``100Go`` par utilisateur |
+| 2 | ``585.74Go`` | Disque limiter au utilisateur premium pour plus de stockage |
+| 3 | ``~289Go`` | Disque off |
+
+| / | Reseau | Info |
+|:----------:|:-------------:|:------:|
+| 0 | ``500Mb/s`` | Ethernet avec fibre |
+
+| Composant | Stats | Info |
+|:----------:|:-------------:|:------:|
+| CPU | ``2 Core 4 Thread`` a ``2.40Ghz`` | INTEL Q6600 |
+| RAM | ``3.80Go`` | DDR3 1330Mhz |
+
+| / | Connection total simultané | Connection sous le meme réseau | Limitation par utilisateur |
+|:----------:|:-------------:|:-------------:|:------:|
+| FTP | ``50`` | ``10`` | ``25Mbtis/s`` |
+
+### Horaire de connection
+| Jour | Début | Fin |
+|:----------:|:-------------:|:------:|
+| Lundi | ``6h45`` | ``22h`` |
+| Mardi | ``6h45`` | ``22h`` |
+| Mercredi | ``5h`` | ``22h`` |
+| Jeudi | ``6h45`` | ``22h`` |
+| Vendredi | ``6h45`` | ``22h`` |
+| Samedi | ``6h45`` | ``22h`` |
+| Dimanche | ``6h45`` | ``22h`` |
