@@ -47,7 +47,7 @@ Il y a plusieurs etape:
 | Dimanche | ``6h45`` | ``22h`` |
 
 ---
-# Tarif
+# Tarifs
 | / | Offre | Prix |
 |:----------:|:-------------:|:------:|
 | Free | ``15Go`` | ``0€/mois`` |
