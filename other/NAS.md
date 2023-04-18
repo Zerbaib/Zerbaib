@@ -18,7 +18,7 @@ Il y a plusieurs etape:
 | / | Disque | Info Disque |
 |:----------:|:-------------:|:------:|
 | 0 | ``250Go`` | Disque system |
-| 1 | ``1.34To`` | Disque principal avec ``50Go`` par utilisateur |
+| 1 | ``1.34To`` | Disque principal avec ``15Go`` par utilisateur |
 | 2 | ``585.74Go`` | Disque limiter au utilisateur premium pour plus de stockage |
 | 3 | ``~289Go`` | Disque off |
 
@@ -50,7 +50,7 @@ Il y a plusieurs etape:
 # Tarif
 | / | Offre | Prix |
 |:----------:|:-------------:|:------:|
-| Free | ``50Go`` | ``0€/mois`` |
+| Free | ``15Go`` | ``0€/mois`` |
 | Petit Budget | ``75Go`` | ``2.99€/mois`` |
 | Moyen Budget | ``100Go`` | ``4.99€/mois`` |
 | Gros Budget | ``175Go`` | ``15€/mois`` |
