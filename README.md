@@ -45,7 +45,7 @@
   ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white) : 
   - **``DAvHtMPnWyDnd2Fw6MRd4PC42GKECnX7xa``**
   
-  ![PAYPAL]() :
+  ![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) :
   - **https://paypal.me/ZerbaibDev**
 </details>
 
