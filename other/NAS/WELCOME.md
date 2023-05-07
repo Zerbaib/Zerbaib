@@ -12,6 +12,15 @@ Pour crée un dossier:
 - Glisser le dossier de votre PC et deposer le dans le dossier du NAS sela fera une copi automatique
 Pour les fichier il faut faire les mêmes manipulation.
 
+## Regle
+
+- **INTERDICTION** au fichier **illégaux**
+- **INTERDICTION** au fichier **pédopornographique**
+- **INTERDICTION** au fichier contenant des **virus**
+- **INTERDICTION** a la **surcharge** des disque
+Toutes INFRACTION vous fera **supprimer** votre compte et vos donnée
+*Des poursuites judiciaires peuvent être engagés suivant la gravité de l'infraction*
+
 ### Sécuriter
 
 Pour toutes demande, merci de nous contacter a:
