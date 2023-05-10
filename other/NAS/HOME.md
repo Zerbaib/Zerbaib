@@ -52,6 +52,6 @@ Il y a plusieurs etape:
 | / | Offre | Prix |
 |:----------:|:-------------:|:------:|
 | Free | ``15Go`` | ``0€/mois`` |
-| Petit Budget | ``35Go`` | ``2.99€/mois`` |
+| Petit Budget | ``30Go`` | ``2.99€/mois`` |
 | Moyen Budget | ``55Go`` | ``4.99€/mois`` |
-| Gros Budget | ``100Go`` | ``15€/mois`` |
+| Gros Budget | ``100Go`` | ``9.99€/mois`` |
