@@ -23,7 +23,7 @@
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **./Zerbaib.sh#6400**:
+  - **Discord**: **./Zerbaib.sh#0001**:
   
   [![discord](https://invidget.switchblade.xyz/ESzHqadj5J)](https://discord.gg/ESzHqadj5J) 
   
