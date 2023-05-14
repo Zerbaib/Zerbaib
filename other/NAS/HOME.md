@@ -10,7 +10,7 @@ Il y a plusieurs etape:
 
  **1 -** [Rejoindre le serveur Discord](https://discord.gg/ESzHqadj5J)
  
- **2 -** Contacter ``./Zerbaib.sh#6400``
+ **2 -** Contacter ``./Zerbaib.sh#0001``
  
  **3 -** Demander lui un compte pour le NAS
 
