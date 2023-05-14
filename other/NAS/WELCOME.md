@@ -24,5 +24,5 @@ Toutes INFRACTION vous fera **supprimer** votre compte et vos donnée
 ### Sécuriter
 
 Pour toutes demande, merci de nous contacter a:
-- Discord: ./Zerbaib.sh#6400
+- Discord: ./Zerbaib.sh#0001
 - mail: hugo.hennetin@proton.me
