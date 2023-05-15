@@ -35,18 +35,6 @@ Il y a plusieurs etape:
 |:----------:|:-------------:|:-------------:|:------:|
 | FTP | ``50`` | ``10`` | ``25Mbtis/s`` |
 
-### Horaire de connection
-| Jour | Début | Fin |
-|:----------:|:-------------:|:------:|
-| Lundi | ``6h45`` | ``22h`` |
-| Mardi | ``6h45`` | ``22h`` |
-| Mercredi | ``5h`` | ``22h`` |
-| Jeudi | ``6h45`` | ``22h`` |
-| Vendredi | ``6h45`` | ``22h`` |
-| Samedi | ``6h45`` | ``22h`` |
-| Dimanche | ``6h45`` | ``22h`` |
-
-
 ---
 # Tarifs
 | / | Offre | Prix |
