@@ -23,7 +23,7 @@
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **./Zerbaib.sh#0001**:
+  - **Discord**: **Zerbaib.sh** *I lost my tag TwT*:
   
   [![discord](https://invidget.switchblade.xyz/ESzHqadj5J)](https://discord.gg/ESzHqadj5J) 
   
