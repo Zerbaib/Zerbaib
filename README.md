@@ -25,8 +25,9 @@
 - 📫 How to reach me:
   - **Discord**: **zerbaib** *I lost my tag TwT*:
   
-    [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81523999/246270048-8f746f9e-6e99-4c9a-954e-0da407c2c63b.png">](https://discord.gg/ESzHqadj5J)
-  
+    [<img src="https://user-images.githubusercontent.com/81523999/246273989-48ea9368-246f-4af3-bf16-2c0c40705b71.png">](https://discord.gg/ESzHqadj5J)
+
+
   - **@mail personal**: **zerbaib@proton.me**
   - **@mail pro**: **hugo.hennetin@proton.me**
 <details>
