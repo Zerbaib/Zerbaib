@@ -5,7 +5,7 @@
 ![VIEW](https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet)
 
 # Something about me ...
-- 👋 Yo, I’m **Zerbaib** !
+- 👋 Yo, I’m **[@Zerbaib](https://github.com/Zerbaib)** !
 - <img src="https://user-images.githubusercontent.com/81523999/229277031-b0b54782-1695-45e2-8a6d-5887b665f53b.png" style="width:18px;"> I am a French developer
 
 ## My learning projects
@@ -24,10 +24,8 @@
 ## Contact me
 - 📫 How to reach me:
   - **Discord**: **zerbaib** *I lost my tag TwT*:
-
-   <a href="https://discord.gg/ESzHqadj5J">
-     <img src="https://github.com/Zerbaib/Zerbaib/assets/81523999/8f746f9e-6e99-4c9a-954e-0da407c2c63b">
-   </a>
+  
+    [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81523999/246270048-8f746f9e-6e99-4c9a-954e-0da407c2c63b.png">](https://discord.gg/ESzHqadj5J)
   
   - **@mail personal**: **zerbaib@proton.me**
   - **@mail pro**: **hugo.hennetin@proton.me**
