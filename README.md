@@ -24,8 +24,8 @@
 ## Contact me
 - 📫 How to reach me:
   - **Discord**: **zerbaib** *I lost my tag TwT*:
-  
-  [![discord](https://invidget.switchblade.xyz/ESzHqadj5J)](https://discord.gg/ESzHqadj5J) 
+
+   [![discord](https://github.com/Zerbaib/Zerbaib/assets/81523999/8f746f9e-6e99-4c9a-954e-0da407c2c63b)](https://discord.gg/ESzHqadj5J) 
   
   - **@mail personal**: **zerbaib@proton.me**
   - **@mail pro**: **hugo.hennetin@proton.me**
