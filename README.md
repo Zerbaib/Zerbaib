@@ -23,7 +23,7 @@
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **zerbaib** *I lost my tag TwT*:
+  - **Discord**: **``zerbaib``** *I lost my tag TwT*:
   
     [<img src="https://user-images.githubusercontent.com/81523999/246273989-48ea9368-246f-4af3-bf16-2c0c40705b71.png">](https://discord.gg/ESzHqadj5J)
 
