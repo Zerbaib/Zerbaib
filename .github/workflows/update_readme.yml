@@ -22,7 +22,7 @@ jobs:
         days_until_birthday=$(( ($birthdate_seconds - $today) / (60*60*24) ))
 
         # Remplacer la ligne du README.md avec la nouvelle valeur
-        sed -i "s|Only [0-9]* days for my birthdate|Only $days_until_birthday days for my birthdate|" README.md
+        sed -i "s|Only .* days for my birthdate|Only $days_until_birthday days for my birthdate|" README.md
 
     - name: Commit and push changes
       env:
