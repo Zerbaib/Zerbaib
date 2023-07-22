@@ -15,11 +15,21 @@ jobs:
 
     - name: Update README.md
       run: |
-        # Calculer le nombre de jours jusqu'à votre date d'anniversaire (remplacez la date par la vôtre)
-        birthdate="2007-10-06"
+        # Récupérer la date actuelle
         today=$(date +%s)
-        birthdate_seconds=$(date -d "$birthdate" +%s)
-        days_until_birthday=$(( ($birthdate_seconds - $today) / (60*60*24) ))
+
+        # Récupérer le jour, le mois et l'année de la date actuelle
+        current_day=$(date +%d)
+        current_month=$(date +%m)
+        current_year=$(date +%Y)
+
+        # Récupérer le jour, le mois et l'année de la date d'anniversaire (remplacez cette date par votre date d'anniversaire au format mois-jour)
+        birthdate="10-06" # Remplacez cette date par votre date d'anniversaire au format mois-jour
+        birthdate_month=$(echo "$birthdate" | cut -d'-' -f1)
+        birthdate_day=$(echo "$birthdate" | cut -d'-' -f2)
+
+        # Calculer les jours jusqu'à l'anniversaire
+        days_until_birthday=$(( ($(date -d "$current_year-$birthdate_month-$birthdate_day" +%s) - $today) / (60*60*24) ))
 
         # Remplacer la ligne du README.md avec la nouvelle valeur
         sed -i "s|Only .* days for my birthdate|Only $days_until_birthday days for my birthdate|" README.md
