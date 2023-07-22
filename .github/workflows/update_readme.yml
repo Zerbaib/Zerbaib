@@ -1,0 +1,33 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Exécutez l'action tous les jours à minuit (UTC)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README.md
+      run: |
+        # Calculer le nombre de jours jusqu'à votre date d'anniversaire (remplacez la date par la vôtre)
+        birthdate="2007-10-06"
+        today=$(date +%s)
+        birthdate_seconds=$(date -d "$birthdate" +%s)
+        days_until_birthday=$(( ($birthdate_seconds - $today) / (60*60*24) ))
+
+        # Remplacer la ligne du README.md avec la nouvelle valeur
+        sed -i "s|Only [0-9]* days for my birthdate|Only $days_until_birthday days for my birthdate|" README.md
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name "Zerbaib"
+        git config --global user.email "zerbaib@proton.me"
+        git commit -am "Automated README update"
+        git push
