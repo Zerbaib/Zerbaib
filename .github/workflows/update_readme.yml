@@ -2,7 +2,7 @@ name: UpdateReadme
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Exécutez l'action tous les jours à minuit (UTC)
+    - cron: '0 0 * * *' # Exécutez l'action tous les jours à minuit (UTC)
   workflow_dispatch: # Ajoutez ce déclencheur pour permettre l'exécution manuelle
 
 jobs:
