@@ -6,7 +6,7 @@
 
 # Something about me ...
 - 👋 Yo, I’m **[@Zerbaib](https://github.com/Zerbaib)** !
-- <img src="https://user-images.githubusercontent.com/81523999/229277031-b0b54782-1695-45e2-8a6d-5887b665f53b.png" style="width:18px;"> I am a French developer
+- 🇫🇷 I am a French developer
 - 🎂 Only 70 days for my birthdate.
 
 ## My learning projects
