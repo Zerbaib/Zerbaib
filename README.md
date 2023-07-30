@@ -7,7 +7,7 @@
 # Something about me ...
 - 👋 Yo, I’m **[@Zerbaib](https://github.com/Zerbaib)** !
 - 🇫🇷 I am a French developer
-- 🎂 Only 68 days for my birthdate.
+- 🎂 Only 67 days for my birthdate.
 
 ## My learning projects
 
