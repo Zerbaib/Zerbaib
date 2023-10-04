@@ -31,8 +31,15 @@ jobs:
         # Calculer les jours jusqu'à l'anniversaire et ajouter 1 jour
         days_until_birthday=$(( ($(date -d "$current_year-$birthdate_month-$birthdate_day" +%s) - $today) / (60*60*24) + 1 ))
 
+        # Vérifier si c'est votre anniversaire
+        if [ "$current_month" -eq "$birthdate_month" ] && [ "$current_day" -eq "$birthdate_day" ]; then
+          new_line="🎂 It's my birthdate."
+        else
+          new_line="🎂 Only $days_until_birthday days for my birthdate."
+        fi
+
         # Remplacer la ligne du README.md avec la nouvelle valeur
-        sed -i "s|🎂 Only .* days for my birthdate|🎂 Only $days_until_birthday days for my birthdate|" README.md
+        sed -i "s|🎂 Only .* days for my birthdate|${new_line}|" README.md
 
     - name: Commit and push changes
       env:
