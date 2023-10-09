@@ -33,11 +33,12 @@ jobs:
             next_birthday="$current_year-$birthdate"
           fi
           days_until_birthday=$(( ($(date +%s -d "$next_birthday") - $(date +%s)) / (60*60*24) ))
+
           new_line="🎂 Only $days_until_birthday days for my birthdate."
         fi
 
-        # Remplacer la ligne du README.md avec la nouvelle valeur
-        sed -i "s|🎂.*birthdat|${new_line}|" README.md
+        # Remplacer la ligne du README.md avec la nouvelle valeur (sans les points de suspension)
+        sed -i "s|🎂.*birthdate.*|${new_line}|" README.md
 
     - name: Commit and push changes
       env:
