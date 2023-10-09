@@ -49,8 +49,10 @@ jobs:
           new_line="🎂 Only $days_until_birthday days for my birthdate."
         fi
 
-        # Remplacer la ligne du README.md avec la nouvelle valeur
-        sed -i "s|🎂 Only .* days for my birthdate|${new_line}|" README.md
+        # Remplacer la ligne du README.md avec la nouvelle valeur si elle a changé
+        if ! grep -q "🎂 Only .* days for my birthdate" README.md || ! grep -q "$new_line" README.md; then
+          sed -i "s|🎂 Only .* days for my birthdate|${new_line}|" README.md
+        fi
 
     - name: Commit and push changes
       env:
@@ -58,5 +60,5 @@ jobs:
       run: |
         git config --global user.name "Zerbaib"
         git config --global user.email "zerbaib@proton.me"
-        git commit -am "Automated README update"
+        git diff --quiet || git commit -am "Automated README update"
         git push
