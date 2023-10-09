@@ -15,44 +15,29 @@ jobs:
 
     - name: Update README.md
       run: |
-        # Récupérer la date actuelle
-        today=$(date +%s)
+        # Récupérer la date actuelle au format mois-jour
+        current_date=$(date +%m-%d)
 
-        # Récupérer le jour, le mois et l'année de la date actuelle
-        current_day=$(date +%d)
-        current_month=$(date +%m)
-        current_year=$(date +%Y)
-
-        # Récupérer le jour, le mois et l'année de la date d'anniversaire (remplacez cette date par votre date d'anniversaire au format mois-jour)
+        # Récupérer la date d'anniversaire au format mois-jour
         birthdate="10-06" # Remplacez cette date par votre date d'anniversaire au format mois-jour
-        birthdate_month=$(echo "$birthdate" | cut -d'-' -f1)
-        birthdate_day=$(echo "$birthdate" | cut -d'-' -f2)
-
-        # Calculer les jours jusqu'à l'anniversaire
-        if [ "$current_month" -eq "$birthdate_month" ] && [ "$current_day" -eq "$birthdate_day" ]; then
-          days_until_birthday=0
-        else
-          birthdate_this_year="$current_year-$birthdate_month-$birthdate_day"
-          birthdate_next_year="$((current_year + 1))-$birthdate_month-$birthdate_day"
-          
-          if [ "$today" -lt "$(date -d "$birthdate_this_year" +%s)" ]; then
-            days_until_birthday=$(( ($(date -d "$birthdate_this_year" +%s) - $today) / (60*60*24) ))
-          else
-            days_until_birthday=$(( ($(date -d "$birthdate_next_year" +%s) - $today) / (60*60*24) ))
-          fi
-        fi
 
         # Vérifier si c'est votre anniversaire
-        if [ "$current_month" -eq "$birthdate_month" ] && [ "$current_day" -eq "$birthdate_day" ]; then
+        if [ "$current_date" == "$birthdate" ]; then
           new_line="🎂 It's my birthdate."
         else
+          # Calculer les jours jusqu'à l'anniversaire suivant
+          current_year=$(date +%Y)
+          next_birthday="$current_year-$birthdate"
+          if [ "$(date +%s -d "$next_birthday")" -le "$(date +%s)" ]; then
+            current_year=$((current_year + 1))
+            next_birthday="$current_year-$birthdate"
+          fi
+          days_until_birthday=$(( ($(date +%s -d "$next_birthday") - $(date +%s)) / (60*60*24) ))
           new_line="🎂 Only $days_until_birthday days for my birthdate."
         fi
 
-        # Remplacer la ligne du README.md avec la nouvelle valeur si elle a changé
-        if ! grep -q "🎂 Only .* days for my birthdate" README.md || ! grep -q "$new_line" README.md; then
-          sed -i "s|🎂 Only .* days for my birthdate|${new_line}|" README.md
-        fi
+        # Remplacer la ligne du README.md avec la nouvelle valeur
+        sed -i "s|🎂.*birthdat|${new_line}|" README.md
 
     - name: Commit and push changes
       env:
@@ -60,5 +45,5 @@ jobs:
       run: |
         git config --global user.name "Zerbaib"
         git config --global user.email "zerbaib@proton.me"
-        git diff --quiet || git commit -am "Automated README update"
+        git commit -am "Automated README update"
         git push
