@@ -28,8 +28,19 @@ jobs:
         birthdate_month=$(echo "$birthdate" | cut -d'-' -f1)
         birthdate_day=$(echo "$birthdate" | cut -d'-' -f2)
 
-        # Calculer les jours jusqu'à l'anniversaire et ajouter 1 jour
-        days_until_birthday=$(( ($(date -d "$current_year-$birthdate_month-$birthdate_day" +%s) - $today) / (60*60*24) + 1 ))
+        # Calculer les jours jusqu'à l'anniversaire
+        if [ "$current_month" -eq "$birthdate_month" ] && [ "$current_day" -eq "$birthdate_day" ]; then
+          days_until_birthday=0
+        else
+          birthdate_this_year="$current_year-$birthdate_month-$birthdate_day"
+          birthdate_next_year="$((current_year + 1))-$birthdate_month-$birthdate_day"
+          
+          if [ "$today" -lt "$(date -d "$birthdate_this_year" +%s)" ]; then
+            days_until_birthday=$(( ($(date -d "$birthdate_this_year" +%s) - $today) / (60*60*24) ))
+          else
+            days_until_birthday=$(( ($(date -d "$birthdate_next_year" +%s) - $today) / (60*60*24) ))
+          fi
+        fi
 
         # Vérifier si c'est votre anniversaire
         if [ "$current_month" -eq "$birthdate_month" ] && [ "$current_day" -eq "$birthdate_day" ]; then
