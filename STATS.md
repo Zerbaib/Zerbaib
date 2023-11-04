@@ -43,3 +43,5 @@
 ![GITSTATS](https://github-readme-stats.vercel.app/api?username=Zerbaib&show_icons=true&theme=react)
 ![PROGSTATS](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zerbaib&layout=compact&langs_count=8&theme=react)
 ![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=@Zerbaib&theme=react)
+
+<img alt="github-snake" src="github-snake.svg" />
