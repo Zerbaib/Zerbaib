@@ -35,6 +35,7 @@
   <summary><h3>💰 Donate Me</h3></summary>
   
   **[![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ZerbaibDev)**
+  **[![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]``bc1qg02geurjjpq5gzk0q8apqxp3tqd2gydfzzcn0y``**
 </details>
 
 
