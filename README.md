@@ -30,7 +30,6 @@
 
 
   - **@mail profesional**: **hugo.hennetin@proton.me**
-  - **@mail personal**: **zerbaib@proton.me**
 <details>
   <summary><h3>💰 Donate Me</h3></summary>
   
